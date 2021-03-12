@@ -1,8 +1,8 @@
-
+import Setup from "./tutorial/useState/final/error-exsample";
 function App() {
   return (
-    <div className="app">
-	  
+    <div className="container">
+	  <Setup/>
     </div>
   );
 }
