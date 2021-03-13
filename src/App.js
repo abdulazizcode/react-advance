@@ -6,7 +6,9 @@
 /*import Setup from "./tutorial/useEffect/useEffect-basics";*/
 /*import Setup from "./tutorial/useEffect/useEffect-cleanup";*/
 /*import Setup from "./tutorial/useEffect/useEffect-fetch-data";*/
-import ConditionRender from "./tutorial/conditionalRendering/multiple-returns";
+/*import ConditionRender from "./tutorial/conditionalRendering/multiple-returns";*/
+import ConditionRender from "./tutorial/conditionalRendering/short-circuit";
+
 
 function App() {
   return (
