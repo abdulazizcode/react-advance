@@ -7,8 +7,8 @@
 /*import Setup from "./tutorial/useEffect/useEffect-cleanup";*/
 /*import Setup from "./tutorial/useEffect/useEffect-fetch-data";*/
 /*import ConditionRender from "./tutorial/conditionalRendering/multiple-returns";*/
-import ConditionRender from "./tutorial/conditionalRendering/short-circuit";
-
+/*import ConditionRender from "./tutorial/conditionalRendering/short-circuit"; */
+import ConditionRender from "./tutorial/conditionalRendering/show-hide";
 
 function App() {
   return (
