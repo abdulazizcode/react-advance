@@ -8,12 +8,14 @@
 /*import Setup from "./tutorial/useEffect/useEffect-fetch-data";*/
 /*import ConditionRender from "./tutorial/conditionalRendering/multiple-returns";*/
 /*import ConditionRender from "./tutorial/conditionalRendering/short-circuit"; */
-import ConditionRender from "./tutorial/conditionalRendering/show-hide";
+/*import ConditionRender from "./tutorial/conditionalRendering/show-hide"; */
+/*import Form  from "./tutorial/forms/controlled-inputs";*/
+import Form  from "./tutorial/forms/multiple-inputs";
 
 function App() {
   return (
     <div className="container">
-	    <ConditionRender/>
+	    <Form/>
     </div>
   );
 }
