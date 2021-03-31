@@ -1,6 +1,6 @@
 # React Js
 
-Learning fundamental in deep with exsamples🎎
+Learning fundamentals in deep with exsamples🎎
 
 
 
