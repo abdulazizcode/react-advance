@@ -1,0 +1,52 @@
+body{
+  margin: 0;
+  display: grid;
+  padding: 3em;
+  place-items: center;
+}
+
+.boxes{
+  display: grid;
+  grid-gap: 2em;
+  grid-template-columns: repeat(2, minmax(350px, 1fr));
+  grid-template-rows: auto;
+}
+.box{
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+.box h1{
+  font-size:20px;
+  margin:0 0 1rem 0;
+}
+.box .content{
+  padding-top:1rem;
+}
+
+ol{
+  margin-left:0;
+}
+
+ol li {
+  align-items:center;
+  display:flex;
+  justify-content:flex-start;
+}
+
+.button{
+  background:hotpink;
+  border:1px solid transparent;
+  color:#fff;
+  margin-right:1em;
+  padding:10px;
+  margin-bottom:10px;
+  width:100px;
+  transition:all .25s easy-in;
+
+}
+.button:hover{
+  background:#fff;
+  border:1px solid hotpink;
+  color:#333;
+}
