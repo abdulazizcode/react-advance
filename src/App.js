@@ -10,12 +10,12 @@
 /*import ConditionRender from "./tutorial/conditionalRendering/short-circuit"; */
 /*import ConditionRender from "./tutorial/conditionalRendering/show-hide"; */
 /*import Form  from "./tutorial/forms/controlled-inputs";*/
-import Form  from "./tutorial/useRef/useRef-basics";
-
+/*import Form  from "./tutorial/useRef/useRef-basics";*/
+import UseReducer  from "./tutorial/useReducer/final";
 function App() {
   return (
     <div className="container">
-	    <Form/>
+	    <UseReducer/>
     </div>
   );
 }
