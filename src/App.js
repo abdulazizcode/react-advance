@@ -1,4 +1,4 @@
-import Setup from "./tutorial/propDrilling/prop-drilling"
+import Setup from "./tutorial/useContext/context-api";
 function App() {
   return (
     <div className="container">
