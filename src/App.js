@@ -1,8 +1,8 @@
-import Example from "./tutorial/customHooks/fetch-exsample";
+import Setup from "./tutorial/propTypes/index";
 function App() {
   return (
     <div className='container'>
-      <Example />
+      <Setup />
     </div>
   );
 }
