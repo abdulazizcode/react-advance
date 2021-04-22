@@ -1,8 +1,8 @@
-import Setup from "./tutorial/useContext/context-api";
+import Example from "./tutorial/customHooks/fetch-exsample";
 function App() {
   return (
-    <div className="container">
-	  <Setup/>
+    <div className='container'>
+      <Example />
     </div>
   );
 }
