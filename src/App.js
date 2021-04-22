@@ -1,4 +1,4 @@
-import Setup from "./tutorial/propTypes/index";
+import Setup from "./tutorial/reactRouter/index";
 function App() {
   return (
     <div className='container'>
